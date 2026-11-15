@@ -1,1 +1,1 @@
-HOSTED BUILD: Empty initial roster. Import signup Excel/CSV or add walk-ups. Every station, tryout review, full evaluation, and export updates the same linked player record. Upload every file to the root of the GitHub Pages repository.
+UPDATED BUILD: empty initial roster; high-school-specific Tryout Review; separate Full Dogs Evaluation; station-wide 60-yard, pitch velocity, infield, outfield, and hitting entry; linked player records. Upload every file to the GitHub Pages repository root.
