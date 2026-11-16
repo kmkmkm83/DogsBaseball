@@ -8,3 +8,5 @@ V13: native confirm replaced with a touch-friendly in-page remove dialog for iPa
 V14: Remove uses a direct per-button onclick plus named modal functions, independent of iPad event delegation.
 
 V15: Evaluate and Remove buttons use identical 96x46 sizing. Date inputs are forced to the same full-width 44px field dimensions on iPad/Safari.
+
+V16: added default Home page with workflow tiles and tryout dashboard. Bottom nav is Home, Roster, Stations, Add Player, Save. Results/Export available from Home.
