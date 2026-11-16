@@ -16,3 +16,5 @@ V17: simplified redundant navigation. Removed global Tryout/Full toggle card and
 V18: Registration Information is hidden on evaluation pages while registration data remains stored/imported. Coach Decision moved to final evaluation section, after ratings and notes.
 
 V19 completion rules: Tryout requires Hitting, Infield, Outfield, Athleticism, Baseball IQ/Makeup, best 60-yard, Recommendation, Projected Role; pitchers additionally require Pitching ratings and max pitch velocity. Full Eval requires Batting, Base Running, Core Criteria, applicable primary/secondary position sections, Recommendation, and Projected Role. NA ratings count as addressed. Roster shows missing requirements.
+
+V20: Registration entry is available for Add Player and Add Walk-Up only. Existing player evaluation pages keep registration information hidden. After first save, the registration card hides and the evaluation workflow remains clean.
