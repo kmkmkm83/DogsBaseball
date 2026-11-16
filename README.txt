@@ -10,3 +10,5 @@ V14: Remove uses a direct per-button onclick plus named modal functions, indepen
 V15: Evaluate and Remove buttons use identical 96x46 sizing. Date inputs are forced to the same full-width 44px field dimensions on iPad/Safari.
 
 V16: added default Home page with workflow tiles and tryout dashboard. Bottom nav is Home, Roster, Stations, Add Player, Save. Results/Export available from Home.
+
+V17: simplified redundant navigation. Removed global Tryout/Full toggle card and duplicate Roster home tile. Home now focuses on Tryout Stations, Tryout Evaluations, Full Evaluations, Results/Export. Persistent bottom bar handles Home/Roster/Stations/Add/Save.
