@@ -1,1 +1,1 @@
-MASTER V6: Dedicated high-school Tryout Review with station-linked ratings. Infield, outfield, hitting, and pitching mechanics/command station grades automatically populate corresponding tryout ratings. Best 60, max pitch velocity, and exit velocity display as linked objective measurements. All V5 features retained.
+MASTER V10 CONSOLIDATED: V7 header/add-player fixes + V8 exact station sync + V9 player/registration data cleanup, all applied to the same current station-linked baseline.
