@@ -14,3 +14,5 @@ V16: added default Home page with workflow tiles and tryout dashboard. Bottom na
 V17: simplified redundant navigation. Removed global Tryout/Full toggle card and duplicate Roster home tile. Home now focuses on Tryout Stations, Tryout Evaluations, Full Evaluations, Results/Export. Persistent bottom bar handles Home/Roster/Stations/Add/Save.
 
 V18: Registration Information is hidden on evaluation pages while registration data remains stored/imported. Coach Decision moved to final evaluation section, after ratings and notes.
+
+V19 completion rules: Tryout requires Hitting, Infield, Outfield, Athleticism, Baseball IQ/Makeup, best 60-yard, Recommendation, Projected Role; pitchers additionally require Pitching ratings and max pitch velocity. Full Eval requires Batting, Base Running, Core Criteria, applicable primary/secondary position sections, Recommendation, and Projected Role. NA ratings count as addressed. Roster shows missing requirements.
