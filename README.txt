@@ -1,1 +1,1 @@
-UPDATED BUILD: empty initial roster; high-school-specific Tryout Review; separate Full Dogs Evaluation; station-wide 60-yard, pitch velocity, infield, outfield, and hitting entry; linked player records. Upload every file to the GitHub Pages repository root.
+COACH BUILD: Optional coach name is available for individual player evaluations and for each tryout station. Station coach is stored with each player station record. Includes May 1 league-age calculation, age-sequence tryout numbering, Jotform import, walk-ups, separate registration/tryout stats, and jersey number.
